@@ -1,0 +1,19 @@
+1. Python
+- Libarries-> (krish Naik(yt))
+*NumPy
+*Pandas
+*Matprolib
+*Seabom
+2. Linear Alzerbra -IIT Bombay NPTEL
+3. Probablity & Statistics - Khan Academy
+4.Calculas - IIT Madras - NPTEL
+5. Machine Learning (fast.ai ML-course)
+- Data Manipulation
+- Algorithms
+6. projects
+7.Deep Learning (fast.ai Deep learning course)
+8. projects
+9. Advance AI (IIT Delhi Nptel)
+*NLP
+*Computer Vision
+*Reinforcement Learning
