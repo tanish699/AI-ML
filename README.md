@@ -17,9 +17,7 @@ This repository serves as a collection of my work as I explore AI and ML concept
 - Pandas, NumPy, Matplotlib  
 
 ## 📌 Projects  
-1. **[Project Name]** - [Brief description]  
-2. **[Project Name]** - [Brief description]  
-3. **[Project Name]** - [Brief description]  
+
 
 ## 🚧 Learning in Progress  
 I'm currently exploring:  
